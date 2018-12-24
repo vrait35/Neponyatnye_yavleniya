@@ -14,7 +14,8 @@ namespace EfNewsDz
             var user = new User
             {
                 Login = "anuar.temirbolat",
-                Password = "asd123"
+                Password = "asd123",
+                Id=1
             };
             //using (var context = new NewsContext())
             //{
