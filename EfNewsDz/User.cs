@@ -11,7 +11,7 @@ namespace EfNewsDz
       
         public User()
         {
-            Comments = new HashSet<Comment>();
+            Comments = new List<Comment>();
         }
 
         public int Id { get; set; }
