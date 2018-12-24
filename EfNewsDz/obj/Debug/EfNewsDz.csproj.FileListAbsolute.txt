@@ -1,0 +1,12 @@
+C:\Users\anuar\source\repos\EfNewsDz\EfNewsDz\bin\Debug\EfNewsDz.exe.config
+C:\Users\anuar\source\repos\EfNewsDz\EfNewsDz\bin\Debug\EfNewsDz.exe
+C:\Users\anuar\source\repos\EfNewsDz\EfNewsDz\bin\Debug\EfNewsDz.pdb
+C:\Users\anuar\source\repos\EfNewsDz\EfNewsDz\bin\Debug\EntityFramework.dll
+C:\Users\anuar\source\repos\EfNewsDz\EfNewsDz\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\anuar\source\repos\EfNewsDz\EfNewsDz\bin\Debug\EntityFramework.xml
+C:\Users\anuar\source\repos\EfNewsDz\EfNewsDz\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\anuar\source\repos\EfNewsDz\EfNewsDz\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\anuar\source\repos\EfNewsDz\EfNewsDz\obj\Debug\EfNewsDz.csprojResolveAssemblyReference.cache
+C:\Users\anuar\source\repos\EfNewsDz\EfNewsDz\obj\Debug\EfNewsDz.csproj.CoreCompileInputs.cache
+C:\Users\anuar\source\repos\EfNewsDz\EfNewsDz\obj\Debug\EfNewsDz.exe
+C:\Users\anuar\source\repos\EfNewsDz\EfNewsDz\obj\Debug\EfNewsDz.pdb
