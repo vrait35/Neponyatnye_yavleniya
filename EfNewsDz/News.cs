@@ -10,7 +10,7 @@ namespace EfNewsDz
     {     
         public News()
         {
-            Comments = new HashSet<Comment>();
+            Comments = new List<Comment>();
         }
 
         public int Id { get; set; }
